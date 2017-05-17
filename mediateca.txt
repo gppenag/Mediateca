@@ -1,0 +1,6 @@
+Gina,Pena,
+Libro,342,41456,JavaLanguage,Balagu.E,
+Mario,Cosales,
+Cd,Rap,23,titulo,autor,autor2,
+Jose,Garcia,Carrera
+Dvds,29,LosdelGrupo,paola,Jose,Lucia,Maria,
